@@ -1,2 +1,2 @@
-# PoweBi FMCG Wharehouse Deshboard
+# PoweBi Customer Churn Deshboard
 this project is end to end 
